@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <p>
   <a href="https://gist.githubusercontent.com/Namean/00f84cd3e608b50fd4a99ebc1a5934ca/raw/f401af141428f4dc9fd8b9df41909a6c5c33298e/banner.svg"
      target="_blank" rel="noopener noreferrer">
