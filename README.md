@@ -17,8 +17,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Namean&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/5a7d9dbb-2779-49c2-a11b-176475aadb8e/thumbnail" >
 </p>
