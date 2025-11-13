@@ -19,4 +19,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColGor=white)](https://facebook.com/https://www.facebook.com/admin.hotrod.softworks/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/desmond-wilson-0a9b3613b/) 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/5a7d9dbb-2779-49c2-a11b-176475aadb8e/thumbnail" >
+</p>
