@@ -1,6 +1,5 @@
-<p>
-  <a href="https://gist.githubusercontent.com/Namean/00f84cd3e608b50fd4a99ebc1a5934ca/raw/f401af141428f4dc9fd8b9df41909a6c5c33298e/banner.svg"</a>
-</p>
+<img src="https://gist.githubusercontent.com/Namean/00f84cd3e608b50fd4a99ebc1a5934ca/raw/f401af141428f4dc9fd8b9df41909a6c5c33298e/banner.svg" />
+
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/5a7d9dbb-2779-49c2-a11b-176475aadb8e/thumbnail" >
