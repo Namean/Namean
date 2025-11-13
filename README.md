@@ -18,3 +18,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Namean&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColGor=white)](https://facebook.com/https://www.facebook.com/admin.hotrod.softworks/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/desmond-wilson-0a9b3613b/) 
