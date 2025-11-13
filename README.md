@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<p>
+  <a href="https://gist.githubusercontent.com/Isere2007/2c4eecee08babd72f4067749562dab0e/raw/17eb131a8bca6f17e7f9fda473f3080d61f3acbe/banner.svg"
+     target="_blank" rel="noopener noreferrer">
+    View the animated SVG banner
+  </a>
+</p>
+
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/5a7d9dbb-2779-49c2-a11b-176475aadb8e/thumbnail" >
 </p>
